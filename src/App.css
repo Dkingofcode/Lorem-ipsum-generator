@@ -40,3 +40,30 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.App{
+  width: 80vw;
+  max-width: 40rem;
+  margin: 10rem auto;
+}
+
+.App h4{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.lorem-form{
+  text-transform: capitalize;
+  letter-spacing: 12px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lorem-form label{
+  
+}
